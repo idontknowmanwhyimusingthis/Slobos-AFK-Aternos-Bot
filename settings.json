@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "citadelserver.play.hosting",
-    "port": 27252,
+    "ip": "127.0.0.1",
+    "port": 27022,
     "version": "1.21.11",
     "try-creative": false
   },
