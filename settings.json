@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "citadelserver.play.hosting",
-    "port": 29885,
+    "ip": "serversarea51.aternos.me",
+    "port": 14620,
     "version": "1.21.11",
     "try-creative": false
   },
