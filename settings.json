@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "serversarea51.aternos.me",
-    "port": 14620,
+    "ip": "onlycitadel.aternos.me",
+    "port": 28891,
     "version": "1.26.2",
     "try-creative": false
   },
